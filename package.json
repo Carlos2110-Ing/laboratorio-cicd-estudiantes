@@ -1,0 +1,9 @@
+{
+  "name": "laboratorio-cicd-estudiantes",
+  "version": "1.0.0",
+  "description": "Proyecto de laboratorio CI/CD",
+  "main": "src/estudiantes.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
