@@ -17,7 +17,7 @@ function obtenerEstado(promedio) {
         throw new Error("Promedio inválido");
     }
 
-    return promedio >= 11 ? "APROBADO" : "DESAPROBADO";
+    return promedio >= 18 ? "APROBADO" : "DESAPROBADO";
 }
 
 module.exports = {
